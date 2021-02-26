@@ -1,0 +1,11 @@
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\bin\Debug\Lab2_Paint.exe.config
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\bin\Debug\Lab2_Paint.exe
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\bin\Debug\Lab2_Paint.pdb
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.csprojAssemblyReference.cache
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.ChildForm.resources
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.MainForm.resources
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.Properties.Resources.resources
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.csproj.GenerateResource.cache
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.exe
+C:\Users\Василий\Desktop\PaintNaMinimalkah-master\PaintNaMinimalkah-master\obj\Debug\Lab2_Paint.pdb
